@@ -8,7 +8,7 @@ public class Client_2_1 {
     public static void main(String[] args) throws IOException {
         Scanner sc = new Scanner(System.in);
 
-        System.out.print("Premier opérande : ");
+        System.out.print("Premier operande : ");
         String a = sc.nextLine();
         System.out.print("Opérateur (+ - * /) : ");
         String op = sc.nextLine();
